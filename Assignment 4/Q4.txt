@@ -1,0 +1,3 @@
+Q -> Predict the output of given code;
+Ans ->    First character 1
+          Second character 49

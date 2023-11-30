@@ -1,0 +1,2 @@
+Q -> Predict the output of given code;
+Ans -> t = 0 

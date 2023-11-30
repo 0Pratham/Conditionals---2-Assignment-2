@@ -1,0 +1,4 @@
+Q -> Predict output of given code .
+Ans ->  a = 15
+        b = 15
+        c = 0
